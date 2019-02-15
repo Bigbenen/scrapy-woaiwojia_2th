@@ -16,6 +16,8 @@
 
 #### 分析结果小试牛刀
 
-`二手房挂牌数量/均价趋势图`
+>二手房源信息还是比较有价值的，在此用matplotlib对`房源数量`和`均价`做了简单的图表分析。
+
+二手房挂牌数量/均价趋势图
 ![](https://github.com/Bigbenen/scrapy-woaiwojia_2th/blob/master/20190215.jpg)
 
