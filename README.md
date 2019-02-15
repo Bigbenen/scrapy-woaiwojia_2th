@@ -10,7 +10,7 @@
 spider分为两个，一个一次性爬取所有页面，一个用于更新上次爬取节点后的房源
 
 抓取结果展示：
-![Image text](https://github.com/Bigbenen/scrapy-woaiwojia_2th/blob/master/aa.png)
+![Image text](https://github.com/Bigbenen/scrapy-woaiwojia_2th/blob/master/a.png)
 
 分析结果小试牛刀：二手房挂牌数量/均价趋势图
 ![Image text](https://github.com/Bigbenen/scrapy-woaiwojia_2th/blob/master/20190215.jpg)
